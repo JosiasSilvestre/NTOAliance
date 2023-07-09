@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Shima" script="data/npc/scripts/npcquest/shima.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1361" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Ola! Eu sou uma sapa ancia mestre do Monte Myoboku, vejo que comecou o seu treinamento Sannin, eu tenho uma {missao} para voce antes de concluir seu treinamento!" />
+  </parameters>
+</npc>

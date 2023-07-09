@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Killer Bee" script="data/npc/scripts/travel/killer bee.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1374" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Eai fracote, eu sou B o Rapper mais forte de Kumogakure Bakayaro! Konoyaro!. O que? quer dominar seu Bijuu? Posso {teleportar} voce para o local de Treino!" />
+  </parameters>
+</npc>

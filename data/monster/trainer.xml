@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Trainer" nameDescription="a trainer" race="blood" experience="0" speed="0" manacost="2200">
+	<health now="9999999" max="9999999"/>
+	<look type="148" corpse="6017"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="0"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="15"/>
+	</flags>
+	<attacks>
+
+	</attacks>
+	<defenses armor="999" defense="999">
+		<defense name="big regeneration" interval="5" chance="700" min="9999999" max="9999999">
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+</monster>

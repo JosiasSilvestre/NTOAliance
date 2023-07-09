@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Son Goku" nameDescription="Son Goku" race="blood" experience="70000" speed="950" manacost="0">
+	<health now="1000000" max="1000000"/>
+	<look type="269" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-9600" max="-14000"/>
+		<attack name="manadrain" interval="1000" chance="10" range="7" min="-9000" max="-15000">
+			<attribute key="areaEffect" value="redshimmer"/>
+
+		</attack>
+		<attack name="Fogofogo" interval="1000" chance="1000" radius="4" target="0" min="-22000" max="-33000">
+		</attack>
+		<attack name="Kageyose no Jutsu" interval="3000" chance="1000" radius="4" target="0" min="-38000" max="-42000">
+		</attack>
+		<attack name="Katon Dragon no Jutsu" interval="2500" chance="100" radius="4" target="0" min="-34000" max="-38000">
+		</attack>
+		<attack name="Wrath of Nature" interval="2500" chance="1000" radius="4" target="0" min="-40400" max="-60000">
+		</attack>
+	</attacks>
+	<defenses armor="240" defense="240">
+		<defense name="healing" interval="4000" chance="40" min="1200" max="1200">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="1250" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="20"/>
+		<element icePercent="10"/>
+		<element holyPercent="15"/>
+		<element deathPercent="35"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="100">
+		<voice sentence="Se quiser a chave tera que me enfrentar" yell="1"/>
+		<voice sentence="Muahaha.."/>
+	</voices>
+	<loot>
+		<item id="2160" countmax="40" chance="3000"/><!-- gold -->
+		<item id="2091" countmax="1" chance="2000"/><!-- golden key -->
+	</loot>
+</monster>

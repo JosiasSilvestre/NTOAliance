@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Gobi" nameDescription="Gobi" race="blood" experience="45800" speed="950" manacost="0">
+	<health now="700000" max="700000"/>
+	<look type="162" head="0" body="94" legs="79" feet="79" corpse="0"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+  <script>
+    <event name="bijuucinco"/>
+  </script>	
+	<attacks>
+		<attack name="melee" interval="1000" min="-4020" max="-4080"/>
+		<attack name="manadrain" interval="1000" chance="10" range="7" min="-4260" max="-4425">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="Sabaku Kyu" interval="1000" chance="100" radius="4" target="0" min="-28880" max="-30600">
+		</attack>
+		<attack name="Sabaku Taisou" interval="1500" chance="100" radius="4" target="0" min="-32040" max="-34520">
+		</attack>
+		<attack name="Sabaku Taisou" interval="2500" chance="100" radius="4" target="0" min="-24080" max="-26320">
+		</attack>
+		<attack name="Ryuusa Bakuryu" interval="3500" chance="100" radius="4" target="0" min="-40080" max="-42460">
+		</attack>
+	</attacks>
+	<defenses armor="160" defense="160">
+		<defense name="healing" interval="4000" chance="40" min="900" max="900">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="850" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="20"/>
+		<element icePercent="10"/>
+		<element holyPercent="-15"/>
+		<element deathPercent="35"/>
+	</elements>
+	<immunities>
+		<immunity lifedrain="1"/>
+		<immunity outfit="1"/>
+		<immunity drunk="1"/>
+		<immunity invisible="1"/>
+	</immunities>
+	<voices interval="5000" chance="50">
+		<voice sentence="Ahaha, seres insignificantes desafiam o poderoso Gobi...HAHAHA" yell="1"/>
+		<voice sentence="Tolos..."/>
+	</voices>
+</monster>

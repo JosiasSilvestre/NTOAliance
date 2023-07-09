@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Izumo" script="data/npc/scripts/npcquest/izumo.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1360" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Ola shinobi, sou um dos Jounins da vila da folha, soube de uma mapa da Vila Oculta da Nevoa, que contem Coordenadas sobre alguns tesouros. Se me {ajudar} Posso entregar a voce." />
+  </parameters>
+</npc>

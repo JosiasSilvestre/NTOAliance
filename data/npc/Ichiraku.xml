@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ichiraku" script="data/npc/scripts/default.lua" walkinterval="2000" speed="0" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="21" head="51" body="96" legs="40" feet="56" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. E sou o dono do Ichiraku Ramen o restaurante preferido do Nanadaime Hokage, Fale {trade} para ver nosso cardapio."/>
+		<parameter key="shop_buyable" value="raspberries,8840,10000;brown bread,2691,8000;ham,2671,8000;carrot,2684,8000;meat,2666,8000;apple,2674,8000;brown mushroom,2789,8000;egg,2695,8000"/>
+	</parameters>
+</npc>

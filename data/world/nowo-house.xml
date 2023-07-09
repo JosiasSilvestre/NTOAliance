@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Konoha Gakure #3" houseid="3" entryx="1029" entryy="892" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Gakure #4" houseid="4" entryx="1032" entryy="892" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Gakure #5" houseid="5" entryx="1029" entryy="897" entryz="7" rent="35000000" townid="1" size="7" />
+	<house name="Konoha Gakure #6" houseid="6" entryx="1032" entryy="897" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Gakure #7" houseid="7" entryx="1039" entryy="905" entryz="7" rent="3000000" townid="1" size="10" />
+	<house name="Konoha Gakure #8" houseid="8" entryx="1039" entryy="911" entryz="7" rent="3000000" townid="1" size="10" />
+	<house name="Konoha Gakure #9" houseid="9" entryx="1039" entryy="917" entryz="7" rent="3000000" townid="1" size="10" />
+	<house name="Konoha Gakure Uchiha #1" houseid="10" entryx="1056" entryy="932" entryz="7" rent="12500000" townid="1" size="46" />
+	<house name="Konoha Gakure Uchiha #2" houseid="11" entryx="1059" entryy="932" entryz="7" rent="3750000" townid="1" size="13" />
+	<house name="Konoha Gakure Uchiha #3" houseid="12" entryx="1024" entryy="928" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Gakure Uchiha #4" houseid="13" entryx="1030" entryy="928" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Gakure Uchiha #5" houseid="14" entryx="1036" entryy="928" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Gakure Uchiha #6" houseid="15" entryx="1042" entryy="928" entryz="7" rent="1000000" townid="1" size="4" />
+	<house name="Konoha Gakure Uchiha #7" houseid="16" entryx="1041" entryy="924" entryz="7" rent="3000000" townid="1" size="10" />
+	<house name="Konoha Private #1" houseid="17" entryx="1051" entryy="920" entryz="7" rent="11500000" townid="1" size="42" />
+	<house name="Konoha Private #2" houseid="18" entryx="1052" entryy="915" entryz="7" rent="2500000" townid="1" size="8" />
+	<house name="Konoha Private #3" houseid="19" entryx="1052" entryy="910" entryz="7" rent="2500000" townid="1" size="8" />
+	<house name="Konoha Private #4" houseid="20" entryx="1052" entryy="905" entryz="7" rent="2500000" townid="1" size="8" />
+	<house name="Konoha Private #5" houseid="21" entryx="1054" entryy="900" entryz="7" rent="4500000" townid="1" size="16" />
+	<house name="Konoha Private #6" houseid="22" entryx="1059" entryy="900" entryz="7" rent="1250000" townid="1" size="5" />
+	<house name="Konoha Private #7" houseid="23" entryx="1059" entryy="905" entryz="7" rent="1000000" townid="1" size="4" />
+	<house name="Konoha Private #8" houseid="24" entryx="1059" entryy="910" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Private #9" houseid="25" entryx="1059" entryy="916" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Flat I" houseid="26" entryx="1059" entryy="922" entryz="7" rent="1500000" townid="1" size="6" />
+	<house name="Konoha Flat II" houseid="27" entryx="1066" entryy="921" entryz="7" rent="2500000" townid="1" size="8" />
+	<house name="Konoha Flat III" houseid="28" entryx="1066" entryy="914" entryz="7" rent="2500000" townid="1" size="8" />
+	<house name="Konoha New" houseid="47" entryx="1067" entryy="929" entryz="7" rent="6750000" townid="1" size="24" />
+	<house name="Suna House #01" houseid="1418" entryx="672" entryy="1110" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #18" houseid="1420" entryx="685" entryy="1112" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #19" houseid="1421" entryx="672" entryy="1117" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #20" houseid="1422" entryx="679" entryy="1116" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #21" houseid="1423" entryx="685" entryy="1118" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #22" houseid="1424" entryx="672" entryy="1125" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #23" houseid="1425" entryx="679" entryy="1123" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #02" houseid="1427" entryx="672" entryy="1129" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #03" houseid="1428" entryx="679" entryy="1129" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #04" houseid="1429" entryx="683" entryy="1129" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Suna House #05" houseid="1430" entryx="622" entryy="1115" entryz="7" rent="11000000" townid="2" size="42" />
+	<house name="Suna House #06" houseid="1431" entryx="631" entryy="1115" entryz="7" rent="11000000" townid="2" size="42" />
+	<house name="Suna House #07" houseid="1432" entryx="640" entryy="1115" entryz="7" rent="11000000" townid="2" size="42" />
+	<house name="Suna House #08" houseid="1433" entryx="622" entryy="1123" entryz="7" rent="11000000" townid="2" size="42" />
+	<house name="Suna House #09" houseid="1434" entryx="631" entryy="1123" entryz="7" rent="11000000" townid="2" size="42" />
+	<house name="Suna House #24" houseid="1435" entryx="640" entryy="1123" entryz="7" rent="11000000" townid="2" size="42" />
+	<house name="Suna House #11" houseid="1436" entryx="649" entryy="1122" entryz="7" rent="9750000" townid="2" size="38" />
+	<house name="Suna House #12" houseid="1437" entryx="646" entryy="1133" entryz="7" rent="9750000" townid="2" size="38" />
+	<house name="Suna House #13" houseid="1438" entryx="649" entryy="1118" entryz="7" rent="9750000" townid="2" size="38" />
+	<house name="Suna House #14" houseid="1439" entryx="646" entryy="1107" entryz="7" rent="9750000" townid="2" size="38" />
+	<house name="Suna House #15" houseid="1440" entryx="644" entryy="1100" entryz="7" rent="20000000" townid="2" size="77" />
+	<house name="Suna House #16" houseid="1441" entryx="626" entryy="1105" entryz="7" rent="13000000" townid="2" size="48" />
+	<house name="Suna House #17" houseid="1443" entryx="644" entryy="1139" entryz="7" rent="21500000" townid="2" size="82" />
+	<house name="Amegakure House #16" houseid="1466" entryx="986" entryy="1486" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #04" houseid="1467" entryx="997" entryy="1486" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #14" houseid="1468" entryx="986" entryy="1477" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #10" houseid="1469" entryx="997" entryy="1477" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #01" houseid="1470" entryx="986" entryy="1468" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #12" houseid="1471" entryx="997" entryy="1468" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #13" houseid="1472" entryx="986" entryy="1459" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #07" houseid="1473" entryx="997" entryy="1459" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #06" houseid="1474" entryx="959" entryy="1459" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #02" houseid="1475" entryx="947" entryy="1459" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #08" houseid="1476" entryx="959" entryy="1468" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #05" houseid="1477" entryx="947" entryy="1468" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #15" houseid="1478" entryx="959" entryy="1477" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #09" houseid="1479" entryx="947" entryy="1477" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #11" houseid="1480" entryx="959" entryy="1486" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="Amegakure House #03" houseid="1481" entryx="947" entryy="1486" entryz="7" rent="6000000" townid="4" size="20" />
+	<house name="AnbuHouse" houseid="1482" entryx="1028" entryy="881" entryz="7" rent="9000000" townid="1" size="36" />
+	<house name="AnbuGreatHouse" houseid="1483" entryx="1037" entryy="883" entryz="7" rent="15500000" townid="1" size="58" />
+	<house name="Yumegakure House #01" houseid="1535" entryx="1746" entryy="826" entryz="7" rent="19500000" townid="8" size="66" />
+	<house name="Yumegakure House #02" houseid="1536" entryx="1751" entryy="827" entryz="7" rent="9000000" townid="8" size="34" />
+	<house name="Yumegakure House #03" houseid="1537" entryx="1759" entryy="828" entryz="7" rent="4500000" townid="8" size="16" />
+	<house name="Yumegakure House #04" houseid="1538" entryx="1775" entryy="827" entryz="7" rent="8750000" townid="8" size="38" />
+	<house name="Yumegakure House #05" houseid="1539" entryx="1779" entryy="827" entryz="7" rent="8750000" townid="8" size="38" />
+	<house name="Yumegakure House #06" houseid="1540" entryx="1775" entryy="827" entryz="6" rent="8750000" townid="8" size="38" />
+	<house name="Yumegakure House #07" houseid="1541" entryx="1779" entryy="827" entryz="6" rent="8750000" townid="8" size="38" />
+	<house name="Yumegakure House #08" houseid="1542" entryx="1775" entryy="836" entryz="7" rent="7250000" townid="8" size="27" />
+	<house name="Yumegakure House #09" houseid="1543" entryx="1780" entryy="836" entryz="7" rent="6750000" townid="8" size="25" />
+	<house name="Yumegakure House #10" houseid="1545" entryx="1777" entryy="845" entryz="7" rent="8750000" townid="8" size="33" />
+	<house name="Yumegakure House #11" houseid="1546" entryx="1780" entryy="844" entryz="7" rent="5500000" townid="8" size="20" />
+	<house name="Yumegakure House #12" houseid="1547" entryx="1780" entryy="844" entryz="6" rent="5500000" townid="8" size="20" />
+	<house name="Yumegakure House #13" houseid="1548" entryx="1777" entryy="845" entryz="6" rent="8750000" townid="8" size="33" />
+	<house name="Yumegakure House #14" houseid="1549" entryx="1775" entryy="836" entryz="6" rent="7250000" townid="8" size="27" />
+	<house name="Yumegakure House #15" houseid="1550" entryx="1780" entryy="836" entryz="6" rent="6750000" townid="8" size="25" />
+	<house name="Yumegakure House #16" houseid="1551" entryx="1753" entryy="858" entryz="7" rent="23250000" townid="8" size="89" />
+	<house name="Yumegakure House #17" houseid="1552" entryx="1745" entryy="854" entryz="7" rent="12500000" townid="8" size="46" />
+	<house name="Yumegakure House #18" houseid="1553" entryx="1746" entryy="861" entryz="7" rent="1400000" townid="8" size="54" />
+	<house name="Yumegakure House #19" houseid="1554" entryx="1746" entryy="864" entryz="7" rent="6000000" townid="8" size="26" />
+	<house name="Yumegakure House #20" houseid="1555" entryx="1740" entryy="872" entryz="7" rent="6000000" townid="8" size="26" />
+	<house name="Yumegakure House #21" houseid="1556" entryx="1737" entryy="881" entryz="7" rent="4500000" townid="8" size="19" />
+	<house name="Yumegakure House #22" houseid="1557" entryx="1760" entryy="879" entryz="7" rent="10500000" townid="8" size="47" />
+	<house name="Suna House #10" houseid="1558" entryx="679" entryy="1110" entryz="7" rent="1500000" townid="2" size="6" />
+	<house name="Vilarejo House #01" houseid="1559" entryx="454" entryy="1285" entryz="7" rent="40500000" townid="7" size="166" />
+	<house name="Vilarejo House #02" houseid="1560" entryx="433" entryy="1290" entryz="7" rent="21000000" townid="7" size="86" />
+	<house name="Vilarejo House #03" houseid="1561" entryx="471" entryy="1287" entryz="7" rent="14000000" townid="7" size="59" />
+	<house name="Vilarejo House #04" houseid="1562" entryx="455" entryy="1292" entryz="7" rent="5000000" townid="7" size="23" />
+	<house name="Vilarejo House #05" houseid="1563" entryx="464" entryy="1292" entryz="7" rent="3000000" townid="7" size="13" />
+	<house name="Vilarejo House #06" houseid="1564" entryx="0" entryy="0" entryz="0" rent="3000000" townid="7" size="13" />
+	<house name="Yumegakure House Private #0" houseid="1566" entryx="1759" entryy="831" entryz="7" rent="9750000" townid="8" size="37" />
+	<house name="Mist House #01" houseid="1567" entryx="1198" entryy="1172" entryz="7" rent="9000000" townid="3" size="46" />
+	<house name="Mist House #02" houseid="1568" entryx="1206" entryy="1172" entryz="7" rent="9000000" townid="3" size="46" />
+	<house name="Mist House #03" houseid="1569" entryx="1214" entryy="1172" entryz="7" rent="9000000" townid="3" size="46" />
+	<house name="Mist House #04" houseid="1570" entryx="1222" entryy="1172" entryz="7" rent="9000000" townid="3" size="46" />
+	<house name="Mist House #06" houseid="1572" entryx="1206" entryy="1183" entryz="7" rent="3750000" townid="3" size="16" />
+	<house name="Mist House #07" houseid="1573" entryx="1214" entryy="1183" entryz="7" rent="3750000" townid="3" size="16" />
+	<house name="Mist House #08" houseid="1574" entryx="1222" entryy="1183" entryz="7" rent="3750000" townid="3" size="16" />
+	<house name="Mist House #09" houseid="1575" entryx="1198" entryy="1183" entryz="7" rent="3750000" townid="3" size="16" />
+	<house name="Mist House #10" houseid="1576" entryx="1198" entryy="1193" entryz="7" rent="5250000" townid="3" size="24" />
+	<house name="Mist House #001" houseid="1577" entryx="1180" entryy="1170" entryz="7" rent="19250000" townid="3" size="76" />
+	<house name="Mist House Private #10" houseid="1578" entryx="1206" entryy="1193" entryz="7" rent="5250000" townid="3" size="24" />
+	<house name="Mist House Private #09" houseid="1579" entryx="1214" entryy="1193" entryz="7" rent="5250000" townid="3" size="24" />
+	<house name="Mist House Private #08" houseid="1580" entryx="1222" entryy="1193" entryz="7" rent="5250000" townid="3" size="24" />
+	<house name="Mist House Private #07" houseid="1581" entryx="1198" entryy="1206" entryz="7" rent="4000000" townid="3" size="14" />
+	<house name="Mist House Private #06" houseid="1582" entryx="1206" entryy="1206" entryz="7" rent="4000000" townid="3" size="14" />
+	<house name="Mist House Private #05" houseid="1583" entryx="1214" entryy="1206" entryz="7" rent="4000000" townid="3" size="14" />
+	<house name="Mist House Private #04" houseid="1584" entryx="1222" entryy="1206" entryz="7" rent="4000000" townid="3" size="14" />
+	<house name="Mist House Private #03" houseid="1585" entryx="1198" entryy="1214" entryz="7" rent="9000000" townid="3" size="36" />
+	<house name="Mist House Private #02" houseid="1586" entryx="1206" entryy="1214" entryz="7" rent="9000000" townid="3" size="36" />
+	<house name="Mist House Private #01" houseid="1587" entryx="1214" entryy="1214" entryz="7" rent="9000000" townid="3" size="36" />
+	<house name="Mist House Private #11" houseid="1591" entryx="1222" entryy="1214" entryz="7" rent="9000000" townid="3" size="36" />
+</houses>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<globalevent name="invasion" interval="60" event="script" value="invasion.lua"/>
+	<globalevent name="save" interval="900" event="script" value="save.lua"/>
+	<globalevent name="mensagem" interval="600" script="msg.lua"/>
+	<globalevent name="serverstart" type="start" event="script" value="start.lua"/>
+	<globalevent name="playersrecord" type="record" event="script" value="record.lua"/>
+	<globalevent name="CTFStart" type="start" event="script" value="CTFMax.lua"/>
+	<globalevent name="ZombieGlobalThink" interval="5" event="script" value="zombie/onthink.lua"/>
+	<globalevent name="ZombieGlobalStartup" type="start" event="script" value="zombie/onstartup.lua"/>
+    <globalevent name="AutoBroadcast" interval="1400" script="autobroadcast.lua"/>
+    <globalevent name="lottery" interval="4000" script="lottery.lua"/>
+	<globalevent name="GlobalBattle" interval="1000" event="script" value="BattleGlobalEvents.lua"/>
+</globalevents>

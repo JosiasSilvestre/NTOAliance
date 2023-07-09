@@ -1,0 +1,14 @@
+[07/10/2012 01:06:56] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[07/10/2012 04:39:28] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Ons Master sent unknown byte: 0x7fff0f609948
+
+[07/10/2012 04:39:28] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Ons Master sent unknown byte: 0x7fff0f609948
+
+[07/10/2012 18:40:24] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[07/10/2012 20:24:41] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[07/10/2012 23:53:00] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[08/10/2012 00:40:25] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[08/10/2012 02:16:47] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[08/10/2012 09:00:33] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[08/10/2012 23:09:36] (Error - void ServicePort::open(uint16_t)) NETWORK: Address already in use
+[10/10/2012 11:18:37] (Notice - virtual void ProtocolGame::parsePacket(NetworkMessage&)) PLAYER: Exalando Ousadia sent unknown byte: 0x7fff37f35c68
+

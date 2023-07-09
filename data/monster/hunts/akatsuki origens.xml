@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Akatsuki Origens" nameDescription="Akatsuki Origens" race="blood" experience="4300" speed="550" manacost="0">
+	<health now="255950" max="255950"/>
+	<look type="480" head="0" body="94" legs="79" feet="79" corpse="2888"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+  <attacks>
+    <attack name="melee" interval="1200" min="-3790" max="-3990"/>
+    <attack name="Great Ball" interval="3000" chance="600" range="7" min="-4265" max="-4545">
+		</attack>
+  </attacks>
+  <defenses armor="40" defense="40"/>
+	<elements>
+		<element physicalPercent="20"/>
+		<element icePercent="10"/>
+		<element holyPercent="-15"/>
+		<element deathPercent="35"/>
+	</elements>
+	<immunities>
+		<immunity poison="1"/>
+	</immunities>
+	<voices interval="5000" chance="50">
+		<voice sentence="Guaaahh!" yell="1"/>
+	</voices>
+	<loot>
+		<item id="2152" countmax="20" chance="10000"/><!-- dolar verde -->
+		<item id="2160" countmax="20" chance="1000"/><!-- gold bar -->
+	</loot>
+</monster>

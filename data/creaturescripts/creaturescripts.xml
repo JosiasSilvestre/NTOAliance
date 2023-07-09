@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creaturescripts>
+	<event type="death" name="HeartSystem" event="script" value="heartsystem.lua"/>
+	<event type="death" name="CerebroSystem" event="script" value="cerebrosystem.lua"/>
+
+	<event type="kill" name="Recompensa" event="script" value="bingobook.lua"/>
+	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+	<event type="joinchannel" name="GuildMotd" event="script" value="guildmotd.lua"/>
+	<event type="receivemail" name="Mail" event="script" value="mail.lua"/>
+	<event type="reportbug" name="SaveReportBug" script="reportbug.lua"/>
+	<event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
+	<event type="think" name="Idle" event="script" value="idle.lua"/>
+	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>	
+    <event type="death" name="questakatsukium" event="script" value="questakatsukium.lua"/>
+    <event type="death" name="questakatsukidois" event="script" value="questakatsukidois.lua"/>
+    <event type="death" name="questakatsukitres" event="script" value="questakatsukitres.lua"/>
+    <event type="death" name="questakatsukiquatro" event="script" value="questakatsukiquatro.lua"/>
+    <event type="death" name="questakatsukicinco" event="script" value="questakatsukicinco.lua"/>
+    <event type="death" name="questakatsukiseis" event="script" value="questakatsukiseis.lua"/>
+    <event type="death" name="questakatsukisete" event="script" value="questakatsukisete.lua"/>
+    <event type="death" name="questcovil" event="script" value="questcovil.lua"/>
+    <event type="death" name="questjounin" event="script" value="questjounin.lua"/>
+    <event type="death" name="questmizuki" event="script" value="questmizuki.lua"/>
+    <event type="death" name="questnidaime" event="script" value="questnidaime.lua"/>
+
+
+    <event type="death" name="espadachinum" event="script" value="espadachinum.lua"/>
+    <event type="death" name="espadachindois" event="script" value="espadachindois.lua"/>
+    <event type="death" name="espadachintres" event="script" value="espadachintres.lua"/>
+    <event type="death" name="espadachinquatro" event="script" value="espadachinquatro.lua"/>
+    <event type="death" name="espadachincinco" event="script" value="espadachincinco.lua"/>
+    <event type="death" name="espadachinseis" event="script" value="espadachinseis.lua"/>
+
+	<event type="death" name="jinchuum" event="script" value="jinchuum.lua"/>
+    <event type="death" name="jinchudois" event="script" value="jinchudois.lua"/>
+    <event type="death" name="jinchutres" event="script" value="jinchutres.lua"/>
+    <event type="death" name="jinchuquatro" event="script" value="jinchuquatro.lua"/>
+    <event type="death" name="jinchucinco" event="script" value="jinchucinco.lua"/>
+    <event type="death" name="jinchuseis" event="script" value="jinchuseis.lua"/>
+	<event type="death" name="jinchusete" event="script" value="jinchusete.lua"/>
+    <event type="death" name="jinchuoito" event="script" value="jinchuoito.lua"/>
+    <event type="death" name="jinchunove" event="script" value="jinchunove.lua"/>
+	
+	<event type="death" name="bijuuum" event="script" value="bijuuum.lua"/>
+    <event type="death" name="bijuudois" event="script" value="bijuudois.lua"/>
+    <event type="death" name="bijuutres" event="script" value="bijuutres.lua"/>
+    <event type="death" name="bijuuquatro" event="script" value="bijuuquatro.lua"/>
+    <event type="death" name="bijuucinco" event="script" value="bijuucinco.lua"/>
+    <event type="death" name="bijuuseis" event="script" value="bijuuseis.lua"/>
+    <event type="death" name="bijuusete" event="script" value="bijuusete.lua"/>
+    <event type="death" name="bijuuoito" event="script" value="bijuuoito.lua"/>
+    <event type="death" name="bijuunove" event="script" value="bijuunove.lua"/>
+	
+
+    <event type="death" name="questmadara" event="script" value="questmadara.lua"/>    
+    <event type="statschange" name="Biohazard" event="script" value="statschange.lua"/>
+    <event type="death" name="exameanbuum" event="script" value="exameanbuum.lua"/>
+    <event type="death" name="exameanbudois" event="script" value="exameanbudois.lua"/>
+    <event type="death" name="exameanbutres" event="script" value="exameanbutres.lua"/>
+    <event type="death" name="exameanbuquatro" event="script" value="exameanbuquatro.lua"/>
+    <event type="logout" name="CTFLogout" event="script" value="CTFMax.lua"/> 
+    <event type="combat" name="CTFCombat" event="script" value="CTFMax.lua"/>     
+    <event type="attack" name="CTFAttack" event="script" value="CTFMax.lua"/>     
+    <event type="statschange" name="CTFDeath" event="script" value="CTFMax.lua"/> 
+    <event type="death" name="teamum" event="script" value="teamum.lua"/>
+    <event type="death" name="teamdois" event="script" value="teamdois.lua"/>
+    <event type="death" name="teamtres" event="script" value="teamtres.lua"/>
+    <event type="death" name="teamquatro" event="script" value="teamquatro.lua"/>
+    <event type="look" name="showVoc" event="script" value="showvoc.lua"/>
+    <event type="think" name="ZombieThink" event="script" value="zombie/onthink.lua"/>
+	<event type="statschange" name="ZombieAttack" event="script" value="zombie/onattack.lua"/>
+	<event type="death" name="ZombieDeath" event="script" value="zombie/ondeath.lua"/>
+	<event type="kill" name="Recompensa" event="script" value="oinin.lua"/>
+	<event type="login" name="BattleLogin" event="script" value="BattleCreatureScript.lua"/>
+    <event type="PrepareDeath" name="BattleDeath" event="script" value="BattleCreatureScript.lua"/>
+    <event type="combat" name="BattleTeam" event="script" value="BattleCreatureScript.lua"/>
+	<event type="advance" name="MaxLevel" event="script" value="maxlevel.lua"/>
+</creaturescripts>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Estilista VIP Seller" script="data/npc/scripts/estilista.lua" walkinterval="3000" floorchange="0" access="5" >
+<health now="150" max="150"/>
+<look type="124" head="78" body="86" legs="114" feet="116" addons="0" corpse="2212"/>
+<parameters>
+<parameter key="message_greet" value="Oi |PLAYERNAME|. Eu troco Skins por vip coins. Fale {trade}."/>
+<parameter key="message_farewell" value="Volte Sempre."/>
+</parameters>
+</npc>
